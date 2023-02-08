@@ -1,2 +1,2 @@
-my basics in shell
+
 
